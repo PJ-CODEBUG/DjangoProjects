@@ -1,1 +1,8 @@
-Run the server: python manage.py runserver
+Start a project:
+	django-admin startproject LevelTwoExercise
+
+To create an app inside a project:
+	python manage.py startapp UserDetailsApp
+  
+Run the server: 
+  python manage.py runserver
